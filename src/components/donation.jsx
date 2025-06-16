@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import Iphonemockup from '../assets/iphone14Pro1.png';
-import Iphonemockup2 from '../assets/iphone14Pro2.png';
+import Iphonemockup from '../assets/iphone1.png';
+import Iphonemockup2 from '../assets/iphone2.png';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
