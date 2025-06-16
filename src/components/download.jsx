@@ -2,8 +2,8 @@ import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-import Iphonemockup from '../assets/DownloadImage1.png';
-import Iphonemockup2 from '../assets/DownloadImage2.png';
+import Iphonemockup from '../assets/downloadimage1.png';
+import Iphonemockup2 from '../assets/downloadimage2.png';
 
 const DownloadSection = () => {
   useEffect(() => {
